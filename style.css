@@ -30,6 +30,7 @@ img{
 :root{
     --black: #000;
     --playstation-blue: #00439C;
+    --orange: orangered;
 }
 
 /* navbar */
@@ -54,5 +55,17 @@ img{
 /* jumbotron */
 
 #jumbotron{
+    background-image: url(img/jumbo-bg.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
+}
+
+#jumbotron button{
+    background-color: var(--orange);
+}
+
+#returnal-logo{
+    width: 300px;
 }
