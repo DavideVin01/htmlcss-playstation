@@ -20,6 +20,10 @@ img{
     color: var(--light-blue);
 }
 
+.text-big{
+    font-size: 40px;
+}
+
 .row{
     border: 1px solid firebrick;
 }
@@ -37,6 +41,7 @@ img{
     --playstation-blue: #00439C;
     --light-blue: #2988D5;
     --orange: orangered;
+    --blue: #2D64E6;
 }
 
 /* navbar */
@@ -77,6 +82,14 @@ img{
     width: 300px;
 }
 
+/* Banner Changer */
+
 #banner-changer img{
     width: 100%;
+}
+
+/* Console PS5 */
+
+#console-ps5 a{
+    background-color: var(--blue);
 }
