@@ -1,14 +1,14 @@
 .container{
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
     min-height: 80px;
 }
 
 .container-fluid{
-    border: 1px solid dodgerblue;
+    /* border: 1px solid dodgerblue; */
 }
 
 section{
-    border: 1px solid goldenrod;
+    /* border: 1px solid goldenrod; */
     min-height: 80px;
 }
 
@@ -25,11 +25,11 @@ img{
 }
 
 .row{
-    border: 1px solid firebrick;
+    /* border: 1px solid firebrick; */
 }
 
 .col{
-    border: 1px solid orangered;
+    /* border: 1px solid orangered; */
 }
 
 .rounded-custom{
@@ -45,6 +45,12 @@ img{
 }
 
 /* navbar */
+
+.navbar{
+    width: 100vw;
+    position: fixed;
+    background-color: #fff;
+}
 
 #nav-upper-section{
     background-color: var(--black);
@@ -64,6 +70,10 @@ img{
 }
 
 /* jumbotron */
+
+header{
+    padding-top: 120px;
+}
 
 #jumbotron{
     background-image: url(img/jumbo-bg.png);
@@ -92,8 +102,4 @@ img{
 
 #console-ps5 a{
     background-color: var(--blue);
-}
-
-#console-ps5 #console-playstation-img{
-    max-width: 500px;
 }
