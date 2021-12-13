@@ -93,3 +93,7 @@ img{
 #console-ps5 a{
     background-color: var(--blue);
 }
+
+#console-ps5 #console-playstation-img{
+    width: 600px;
+}
