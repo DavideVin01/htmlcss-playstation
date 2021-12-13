@@ -4,7 +4,7 @@
 }
 
 .container-fluid{
-    border: 1px solid dodgerblue;
+    /* border: 1px solid dodgerblue; */
 
     /* TODO Rimuovere */
     /* min-height: 80px; */
@@ -52,3 +52,7 @@ img{
 }
 
 /* jumbotron */
+
+#jumbotron{
+    position: relative;
+}
