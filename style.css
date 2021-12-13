@@ -62,7 +62,7 @@ img{
     position: relative;
 }
 
-#jumbotron button{
+#jumbotron a{
     background-color: var(--orange);
 }
 
