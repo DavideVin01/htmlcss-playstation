@@ -4,14 +4,14 @@
 }
 
 .container-fluid{
-    /* border: 1px solid dodgerblue; */
+    border: 1px solid dodgerblue;
 
     /* TODO Rimuovere */
     /* min-height: 80px; */
 }
 
 section{
-    /* border: 1px solid goldenrod; */
+    border: 1px solid goldenrod;
     min-height: 80px;
 }
 
@@ -64,6 +64,7 @@ img{
 
 #jumbotron a{
     background-color: var(--orange);
+    width: 150px;
 }
 
 #returnal-logo{
