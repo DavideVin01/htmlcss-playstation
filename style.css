@@ -21,7 +21,16 @@ section{
     border: 1px solid orangered;
 }
 
+:root{
+    --black: #000;
+    --playstation-blue: #00439C;
+}
+
 /* navbar */
+
+#nav-black-bar{
+    background-color: var(--black);
+}
 
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0, 0, 0);
