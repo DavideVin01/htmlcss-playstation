@@ -24,7 +24,11 @@ img{
 }
 
 .col{
-    border: 1px solid orangered;
+    /* border: 1px solid orangered; */
+}
+
+.rounded-custom{
+    border-radius: 20px;
 }
 
 :root{
@@ -69,4 +73,8 @@ img{
 
 #returnal-logo{
     width: 300px;
+}
+
+#banner-changer img{
+    width: 100%;
 }
