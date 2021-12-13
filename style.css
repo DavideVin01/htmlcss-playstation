@@ -4,8 +4,10 @@
 }
 
 .container-fluid{
-    /* border: 1px solid dodgerblue; */
-    min-height: 80px;
+    border: 1px solid dodgerblue;
+
+    /* TODO Rimuovere */
+    /* min-height: 80px; */
 }
 
 section{
@@ -28,8 +30,17 @@ section{
 
 /* navbar */
 
-#nav-black-bar{
+#nav-upper-section{
     background-color: var(--black);
+    height: 40px;
+}
+
+#nav-upper-section #sony-logo{
+    width: 100px;
+}
+
+#nav-bottom-section{
+    height: 80px;
 }
 
 .navbar-light .navbar-nav .nav-link {
