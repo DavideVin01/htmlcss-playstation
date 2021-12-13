@@ -95,5 +95,5 @@ img{
 }
 
 #console-ps5 #console-playstation-img{
-    width: 600px;
+    max-width: 500px;
 }
