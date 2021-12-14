@@ -103,3 +103,9 @@ header{
 #console-ps5 a{
     background-color: var(--blue);
 }
+
+/* ps5-hardware */
+
+#ps5-hardware{
+    /* width: 500px; */
+}
