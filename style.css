@@ -43,6 +43,7 @@ img{
     --orange: orangered;
     --blue: #2D64E6;
     --gray: #BEBCBB;
+    --light-gray: #D9DADC;
 }
 
 /* navbar */
@@ -137,4 +138,14 @@ header{
 
 #ps-plus-logo{
     width: 400px;
+}
+
+#playstation-plus{
+    background-image: url(img/ps-plus-april-monthly-games-featured-image-block.png);
+    background-size: contain;
+}
+
+#playstation-plus a{
+    background-color: var(--light-gray);
+    width: 220px;
 }
