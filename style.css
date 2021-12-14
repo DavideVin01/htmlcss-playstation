@@ -116,3 +116,14 @@ header{
 #it-takes-too-logo{
     width: 200px;
 }
+
+/* Explore PS4 */
+
+#explore-ps4 a{
+    background-color: var(--blue);
+    width: 115px;
+}
+
+#explore-ps4 #ps4-slim{
+    width: 400px;
+}
