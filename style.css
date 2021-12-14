@@ -75,7 +75,7 @@ header{
     padding-top: 120px;
 }
 
-#jumbotron{
+.jumbotron{
     background-image: url(img/jumbo-bg.png);
     background-position: top;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@ header{
     height: 600px;
 }
 
-#jumbotron a{
+.jumbotron a{
     background-color: var(--orange);
     width: 150px;
 }
