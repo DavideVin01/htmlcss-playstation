@@ -76,11 +76,14 @@ header{
 }
 
 .jumbotron{
-    background-image: url(img/jumbo-bg.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
+}
+
+#main-jumbotron{
+    background-image: url(img/jumbo-bg.png);
 }
 
 .jumbotron a{
@@ -104,4 +107,8 @@ header{
     background-color: var(--blue);
 }
 
-/* ps5-hardware */
+/* Secondary Jumbotron */
+
+#secondary-jumbotron{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+}
