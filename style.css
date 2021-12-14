@@ -134,3 +134,7 @@ header{
 #playstation-plus{
     background-color: var(--gray);
 }
+
+#ps-plus-logo{
+    width: 400px;
+}
