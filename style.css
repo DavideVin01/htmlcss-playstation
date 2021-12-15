@@ -44,6 +44,7 @@ img{
     --blue: #2D64E6;
     --gray: #BEBCBB;
     --light-gray: #D9DADC;
+    --dark-blue: #161C3B;
 }
 
 /* navbar */
@@ -148,4 +149,20 @@ header{
     width: 220px;
 }
 
-/* saòl */
+/* PlayStation Now Banner */
+
+#playstation-now-banner{
+    background-color: var(--dark-blue);
+    background-image: url(img/ps-now-april-featured-image-block.png);
+    background-size: contain;
+}
+
+#ps-now-logo{
+    width: 400px;
+}
+
+#playstation-now-banner a{
+    background-color: #fff;
+    color: var(--dark-blue);
+    width: 220px;
+}
