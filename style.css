@@ -161,8 +161,6 @@ header{
 
 #playstation-now-banner{
     background-color: var(--dark-blue);
-    background-image: url(img/ps-now-april-featured-image-block.png);
-    background-size: contain;
 }
 
 #ps-now-logo{
