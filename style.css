@@ -178,8 +178,3 @@ header{
     width: 100px;
     filter: invert(100%) sepia(3%) saturate(0%) hue-rotate(297deg) brightness(150%) contrast(100%);
 }
-
-#footer-links a{
-    text-decoration: none;
-    color: #fff;
-}
