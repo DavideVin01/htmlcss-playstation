@@ -78,7 +78,7 @@ header{
 }
 
 .jumbotron{
-    background-position: top;
+    background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -149,3 +149,5 @@ header{
     background-color: var(--light-gray);
     width: 220px;
 }
+
+/* saòl */
