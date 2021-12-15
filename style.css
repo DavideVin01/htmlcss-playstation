@@ -173,3 +173,13 @@ header{
     background-color: var(--playstation-blue);
     min-height: 600px;
 }
+
+#footer-playstation-logo img{
+    width: 150px;
+    filter: invert(100%) sepia(3%) saturate(0%) hue-rotate(297deg) brightness(150%) contrast(100%);
+}
+
+#footer-links a{
+    text-decoration: none;
+    color: #fff;
+}
