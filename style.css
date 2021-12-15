@@ -166,3 +166,10 @@ header{
     color: var(--dark-blue);
     width: 220px;
 }
+
+/* footer */
+
+#footer-box{
+    background-color: var(--playstation-blue);
+    min-height: 600px;
+}
