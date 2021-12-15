@@ -134,16 +134,14 @@ header{
 
 #playstation-plus{
     background-color: var(--gray);
+    background-image: url(img/ps-plus-april-monthly-games-featured-image-block.png);
+    background-size: contain;
 }
 
 #ps-plus-logo{
     width: 400px;
 }
 
-#playstation-plus{
-    background-image: url(img/ps-plus-april-monthly-games-featured-image-block.png);
-    background-size: contain;
-}
 
 #playstation-plus a{
     background-color: var(--light-gray);
