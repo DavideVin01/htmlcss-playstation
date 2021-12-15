@@ -120,6 +120,7 @@ header{
 
 #secondary-jumbotron{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    height: 800px;
 }
 
 #it-takes-too-logo{
