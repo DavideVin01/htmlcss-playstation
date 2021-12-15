@@ -16,6 +16,10 @@ img{
     max-width: 100%;
 }
 
+.disabled{
+    opacity: 50%;
+}
+
 .text-lightblue{
     color: var(--light-blue);
 }
@@ -171,7 +175,6 @@ header{
 
 #footer-box{
     background-color: var(--playstation-blue);
-    min-height: 600px;
 }
 
 #footer-playstation-logo img{
